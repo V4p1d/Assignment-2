@@ -7,6 +7,7 @@ The topics that you will be assessed on are:
 - Topics of the previous assignment
 - Functions
 - Lists and dictionaries
+- Basic string manipulation
 
 All the exercises have the same weight (i.e., they all have the same value when it comes to the final grade of the assessment).
 
